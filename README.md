@@ -9,6 +9,8 @@ Run your preffered Andoid emulator.
 ```bash
 flutter run
 ```
+## Screenshot
+![](assets/screenshot.jpg)
 
 
 ## Contributing
